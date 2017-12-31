@@ -78,6 +78,7 @@ class Solution2 {
 		
 		//긴문자의 배열부터 검사하고
 		//짧은 문자 배열 검사해야함 o 빼버리면 mo조합이 안나옴
+		//replace 와 replaceall(전부바꿈)
 		
 		
 	}
